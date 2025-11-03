@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image_moi.png"
   name             : "PhD. Fariba Ebrahimian"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in computational mechanics and AI applications"
